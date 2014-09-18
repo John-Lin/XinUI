@@ -2,6 +2,7 @@ XinUI
 =====
 
 XinUI is a simple UI for Ryu SDN controller.
+This project is forked from [xinguard/XinUI](https://github.com/xinguard/XinUI) under MIT license.
 
 
 ##Features
